@@ -1,4 +1,6 @@
-public class Palindrome {
+package methods;
+
+public class PalindromeDemo {
 
     static boolean palindrome(int n) {
 

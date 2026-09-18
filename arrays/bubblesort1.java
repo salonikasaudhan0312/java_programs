@@ -1,3 +1,5 @@
+package arrays;
+
 public class bubblesort1 {
   public static void main(String[] args) {
     int[] arr = { 2, 4, 6, 7, 3, -1, 8 };

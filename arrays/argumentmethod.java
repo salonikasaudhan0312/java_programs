@@ -1,3 +1,5 @@
+package arrays;
+
 public class argumentmethod {
    public static void max(int a, int b, int c){
         if(a>=b && a>=c){
