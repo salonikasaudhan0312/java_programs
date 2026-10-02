@@ -20,9 +20,7 @@ public class IsArmstrongNumber {
 
         }
         public static void main(String[] args) {
-
             int n = 153;
-
             System.out.println("IsArmstrongNumber= " +IsArmstrongNumber(n) );
         }
     }

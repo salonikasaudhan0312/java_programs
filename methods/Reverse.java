@@ -14,9 +14,7 @@ public class Reverse {
     }
 
     public static void main(String[] args) {
-
         int n = 12345;
-
         System.out.println("Reverse = " + reverse(n));
     }
 }
